@@ -66,3 +66,6 @@ npm run dev
 
 /tmarshallExample
 - [Using React and creates his own hook with useEffect](https://javascript.plainenglish.io/how-to-make-a-simple-custom-usedrag-react-hook-6b606d45d353)
+
+/reactDocumentsUseEffect
+- [From the useEffect Reference pages at react.dev](https://react.dev/reference/react/useEffect#my-effect-runs-twice-when-the-component-mounts)
